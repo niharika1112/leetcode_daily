@@ -31,6 +31,32 @@ Then moving to:
 Each problem file will include:
 - 🔗 Problem link  
 - 💡 Approach + Explanation  
-- ⏱️ Time & Space Complexity  
+- ⏱️ Time & Space Complexity
 
+---
+
+## 🔥 Track My Journey Elsewhere
+- 🌐 Hashnode: *(link soon)*
+- 🐦 X/Twitter Threads: *(link soon)*
+
+---
+
+## 🧑‍🤝‍🧑 Contribute / Suggest
+If you:
+- Want to suggest a problem  
+- Have a smarter solution  
+- Found a bug  
+
+Open an **Issue** or **Pull Request** — I’m happy to learn!
+
+---
+
+## 💙 Motivation  
+> “Small daily progress beats occasional perfection.”
+
+If this repo helps you in ANY way, star ⭐ it so I know you’re cheering with me!
+
+---
+
+### Let’s get consistent. Let’s get better. Let’s crush interviews 🚀
 
