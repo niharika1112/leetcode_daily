@@ -28,6 +28,9 @@ Then moving to:
 - Dynamic Programming
 
 ---
-
+Each problem file will include:
+- 🔗 Problem link  
+- 💡 Approach + Explanation  
+- ⏱️ Time & Space Complexity  
 
 
