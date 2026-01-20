@@ -16,6 +16,8 @@ class Solution {
 
 //Time & space complexity
 
-O(n) & O(n)
+ time = O(n) traversing n elements of nums
+space = O(n) creating ans of size = n(nums.length)
+
 
 
