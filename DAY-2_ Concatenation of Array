@@ -1,0 +1,33 @@
+
+// Problem link
+
+1929. Concatenation of Array
+
+// code
+
+class Solution {
+    public int[] getConcatenation(int[] nums) {
+        int n = nums.length;
+        int[] ans = new int[2*n];
+        for(int i =0; i<n;i++){
+            ans[i] = nums[i];
+            ans[i+n] = nums[i];
+        }
+        return ans;
+    }
+}
+
+//Time & space complexity
+
+O(n) & O(n)
+
+// Trick of the day
+
+// -check what's the return type of function
+// -make a new variable of that data type
+// -don't forget to return it
+
+// while claculating complexity constants are ignored- like 
+// here space complexity should be 2n but it is O(n)
+
+
