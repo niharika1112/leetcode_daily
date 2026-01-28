@@ -1,0 +1,32 @@
+
+// Problem link
+
+1480. Running Sum of 1d Array
+https://leetcode.com/problems/running-sum-of-1d-array/
+
+
+
+// code
+
+class Solution {
+    public int[] runningSum(int[] nums) {
+        for(int i =1;i<nums.length;i++){
+        nums[i] = nums[i-1]+nums[i];
+
+        }
+        return nums;
+    }
+}
+
+//Time & space complexity
+
+O(n) & O(n)
+
+// Trick of the day
+
+//- if constraints are <10^6-use algo with O(n) time complexity)
+
+// -check what's the return type of function
+//-see what's question is asking to return-a new array or same one
+
+
